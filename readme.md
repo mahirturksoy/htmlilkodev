@@ -1,8 +1,22 @@
 # Mahir Türksoy
-## Hakkımda 
-Merhaba. Ben Mahir Türksoy. Kocaeli'de yaşıyorum. Kitap okumayı ve teknolojiyi takip etmeyi seviyorum. Web geliştirme ile ilgileniyorum. Kodluyoruz'un Front-end eğitim serisi ile şimdiye dek çok güzel şeyler öğrendim. Bundan sonrası için sabırsızlanıyorum.
+## About Me 
+Hello. My name is Mahir Türksoy. I live in Kocaeli. I like to read books and follow technology.I'm interested in web development. I've learned a lot of good things so far with the front-end training series. I can't wait for the future.
+# Movies
+- Interstellar
+- The Shawshank Redemption
+- Once Upon a Time in America
 
-# Sevdiğim Diziler
+# Tv Shows
+- Breaking Bad
+- Narcos
+- Peaky Blinders
+
+# Books
+- Kinyas ve Kayra
+- Chees
+- Chronicle of a Death Foretold
+
+
+# My Favorite TV Show
 ## Breaking Bad 
-Vince Gilligan tarafından 20 Ocak 2008 tarihinde hayata geçen Breaking Bad maddi sıkıntılar çeken bir kimya öğretmeninin kansere yakalanmasıyla uyuşturucu dünyasında ki yükselişini anlatan tüm zamanların en başarılı tv dizisi olarak görülmektedir. 
-Ana kahraman Walter White'ın "Şimdiye dek, namusum ve şerefim ile dürüst bir insan olarak yaşadım, ancak kanserden başka bir sonuç elde edemedim" şeklinde ki düşüncesi kendisi ile beraber tüm ailesini de bu karanlık yolculuğa sürüklemiştir.
+Breaking Bad is a US drama television series designed by Vince Gilligan. The first episode aired on January 20, 2008, the series continued for five seasons.
